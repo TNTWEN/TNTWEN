@@ -3,7 +3,7 @@
 
 
 <a href="https://www.youracclaim.com/badges/299cecbe-f3fb-4770-9a42-b69f9e842492/public_url">
-<img src="https://raw.githubusercontent.com/TNTWEN/TNTWEN.github.io/master/openvino.png?token=ALV7LRY7673T2RRUL4RDGPC7XYOFM" width = "50%" />
+<img src="pic/openvino.png" width = "50%" />
 </a>
 
 
