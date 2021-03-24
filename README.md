@@ -3,7 +3,7 @@
 
 
 <a href="https://www.youracclaim.com/badges/299cecbe-f3fb-4770-9a42-b69f9e842492/public_url">
-<img src="pic/openvino.png" width = "25%" />
+<img src="pic/OpenVino.png" width = "25%" />
 </a>
 
 
